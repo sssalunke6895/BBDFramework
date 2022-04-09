@@ -1,0 +1,8 @@
+com\bbd\BBDFramework\pages\QATechHubPage.class
+com\bbd\BBDFramework\stepDefination\QATechHub.class
+com\bbd\BBDFramework\stepDefination\Myntra.class
+com\bbd\BBDFramework\TestRunner\TestRunner.class
+com\bbd\BBDFramework\pages\YahooPage.class
+com\bbd\BBDFramework\stepDefination\Yahoo.class
+com\bbd\BBDFramework\pages\MyntraPage.class
+com\bbd\BBDFramework\stepDefination\Core.class
